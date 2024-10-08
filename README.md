@@ -1,6 +1,6 @@
 <p align="center"><img src="Falcon/long_logo.png" alt="falcon" height="160px"></p>
 
-# The Falcon Innovation Project
+# The Falcon
 
 An innovation project for Philippine Normal University's Faculty of Arts and Languages that schedules faculty, stores faculty profiles, and visualizes tracer study results.
 
